@@ -42,3 +42,15 @@ TBH I do not keep any of specs at top of my head, I just run fastfetch if I need
 
 
 And Yes, I do watch [Tsoding](https://www.youtube.com/@Tsoding), as you can tell by my preferences.
+
+# Crazy project ideas that I probably won't do cause I'm lazy:
+
+- JaiScript. What If we take Jai and make it an interpreted language like JavaScript?
+- High level video editing language to FFMPEG compiler. What if we make a language that can describe video editor moves and then compile that language into FFMPEG commands, so later different editors can use the same language ( it may be just python library kind of like how Blender works, but without compilation it might be slow ).
+- Videogame where users can write mods in any language they desire, kind of like GNU HURD but its an app, not OS. BUT the main language is LISP because God wrote in LISP code obviously.
+- Convinient C header generator. lib_struct_name_method - is a long name for a function, so you might add STRIP_PREFIX, or not include prefix in the first place. But what if you can write library lib { interface struct_name { ...methods... } } and use some script to expand with needed level of stripping AND it will correctly guide compiler here in case of an error?
+
+
+
+
+
